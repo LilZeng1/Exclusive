@@ -1,2 +1,2 @@
-# Ex
+# Exclusive
 EXCLUSIVE Guilded Server
