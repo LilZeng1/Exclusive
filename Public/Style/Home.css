@@ -25,7 +25,7 @@ body {
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: url('../../Assets/Exclusive-Banner.png') center/cover no-repeat;
+  background: url('../Assets/Exclusive-Banner.png') center/cover no-repeat;
   min-height: 420px;
 }
 
