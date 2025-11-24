@@ -20,8 +20,6 @@ Banner: ```./Public/Assets/Exclusive-Banner.png``` — 1920×300 önerilir.
 
 Logo: ```./Public/Assets/Exclusive-Logo.png``` — 256×256 veya SVG tavsiye edilir.
 
-Instagram ikonunu ./Public/Assets/instagram-icon.png olarak ekledim; README içinde profile linki yer alıyor.
-
 ## **📬 İletişim**
 - Projeyle ilgili hızlı iletişim için Instagram: **@lilzeng1**
 
